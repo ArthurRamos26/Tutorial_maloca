@@ -9,15 +9,15 @@
 
 ### Teste No Simulador :
 - O teste foi feito no simulador wokwi onde foi feito um sistema em arduíno que utilizando do sensor exibe um aviso caso a umidade do ar esteja em nível alarmante. 
-<!--imagem circuito --> 
+
 
 ### Resultados dos Testes:
 
 - A tela lcd exibe um aviso perfeitamente  
-- No caso de umidadde baixa : 
-<!--imagem circuito funcionando umid baixa -->
+- No caso de umidade baixa : 
+  ![Umidade_Baixa](https://github.com/ArthurRamos26/Tutorial_maloca/blob/06be1c565b82277954f840526d2dcec7d3d5c56e/sensor%20baixo%20%20132018.png)
 - No caso de umidade normal : 
-<!--imagem circuito funcionando umid normal -->
+ ![Umidade_normal](https://github.com/ArthurRamos26/Tutorial_maloca/blob/06be1c565b82277954f840526d2dcec7d3d5c56e/foto%20de%20trabalho%20de%20boa%20.png)
 
 ## Informações Adicionais
 ### Hardware Utilizado:
@@ -26,6 +26,7 @@
 -  Protoboard (utilizado para faciltar as conexões entre os componentes)
 -  Tela LCD 16X2 (utilizado para mandar um aviso caso haja alteração na umidade do ar )
 - Fios e cabos (para fazer as conexões entre os componentes)
+- ![Circuito](https://github.com/ArthurRamos26/Tutorial_maloca/blob/06be1c565b82277954f840526d2dcec7d3d5c56e/sensor%20desligado%20.png)
 
 ### Simulação Utilizado:
 - A  simulação foi feita  utilizando o site wokwi sendo o link dela : https://wokwi.com/projects/414730818955336705
@@ -121,6 +122,6 @@ void loop() {
 ## Tipo de Mudança
 
 - [ ] Correção de bug
-- [ ] Nova funcionalidade
+- [x] Nova funcionalidade
 - [ ] Alteração de funcionalidade existente
-- [x] Documentação
+- [ ] Documentação
