@@ -1,2 +1,2 @@
 # Tutorial_maloca
-Pull_request de turorial de sensor de umidade 
+Pull_request de tutorial de sensor de umidade 
